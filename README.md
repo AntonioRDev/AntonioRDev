@@ -1,7 +1,8 @@
 <div id="header">
   <strong>Hello World 👋</strong>
-  <hr>
 </div>
+
+</br>
 
 Graduado em Sistemas de Informação pela PUC-MG, trabalho como desenvolvedor Full-Stack/Full-Cycle a mais de 5 anos, sempre prezando pelo código limpo e seguindo os princípios básicos de desenvolvimento de software SOLID, YAGNI, DRY.
 
