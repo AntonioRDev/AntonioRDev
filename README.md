@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div id="header">
   <strong>Hello World 👋</strong>
   <hr>
 </div>
@@ -9,7 +9,6 @@ Estudando massivamente sobre Arquitetura de Sofware e Soluções Cloud (AWS).
 
 Atualmente estou me aprofundando nos conceitos de Clean Architecture e Hexagonal Architecture.
 
-</br>
 <div> 
     <img src="https://thumbs.gfycat.com/GratefulAthleticGalapagostortoise-max-1mb.gif" width="360" alt="Limitless gif"/>
     </br>
@@ -22,7 +21,6 @@ Atualmente estou me aprofundando nos conceitos de Clean Architecture e Hexagonal
 </div>
 
 <hr>
-</br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioRDev&layout=compact&theme=vision-friendly-dark)](https://github.com/AntonioRDev/github-readme-stats)
 
