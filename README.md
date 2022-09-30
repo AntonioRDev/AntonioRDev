@@ -1,16 +1,28 @@
-### Hi there 👋
+<div id="header" align="center">
+  <strong>Hello World 👋</strong>
+  <hr>
+</div>
 
-<!--
-**AntonioRDev/AntonioRDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Graduado em Sistemas de Informação pela PUC-MG, trabalho como desenvolvedor Full-Stack/Full-Cycle a mais de 5 anos, sempre prezando pelo código limpo e seguindo os princípios básicos de desenvolvimento de software SOLID, YAGNI, DRY.
 
-Here are some ideas to get you started:
+Estudando massivamente sobre Arquitetura de Sofware e Soluções Cloud (AWS).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente estou me aprofundando nos conceitos de Clean Architecture e Hexagonal Architecture.
+
+</br>
+<div> 
+    <img src="https://thumbs.gfycat.com/GratefulAthleticGalapagostortoise-max-1mb.gif" width="360" alt="Limitless gif"/>
+    </br>
+    
+  Como entrar em contato comigo:
+
+  <a href="https://www.linkedin.com/in/antonioribdev/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
+<hr>
+</br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioRDev&layout=compact&theme=vision-friendly-dark)](https://github.com/AntonioRDev/github-readme-stats)
+
