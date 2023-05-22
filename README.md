@@ -8,8 +8,6 @@ Graduado em Sistemas de Informação pela PUC-MG, trabalho como desenvolvedor Fu
 
 Estudando massivamente sobre Arquitetura de Sofware e Soluções Cloud (AWS).
 
-Atualmente estou me aprofundando nos conceitos de Clean Architecture e Hexagonal Architecture.
-
 <div> 
     <img src="https://thumbs.gfycat.com/GratefulAthleticGalapagostortoise-max-1mb.gif" width="360" alt="Limitless gif"/>
     </br>
